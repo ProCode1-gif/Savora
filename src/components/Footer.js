@@ -11,7 +11,7 @@ const Footer = () => {
           <p className="text-sm text-white/60">
             123 Culinary Avenue, Suite 100 Gourmet District, City 56789
           </p>
-          <p className="text-sm text-white/60">+1 (555) 123-4567</p>
+          <p className="text-sm text-white/60">+234 807 0603-137</p>
         </div>
         <div className="space-y-3">
           <h3 className="text-white mb-6">Opening Hour</h3>
@@ -64,7 +64,8 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="md:flex items-center justify-around space-y-3 text-white/60">
+      <hr className="my-6 text-gray-500 shadow-md" />
+      <div className="md:flex items-center justify-between space-y-3 text-white/60">
         <p>© 2026 Savora Fine Dinning. All rights reserved</p>
         <div className="flex">
           <p>Terms of Services</p>
